@@ -1,0 +1,13 @@
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\bin\Debug\netcoreapp3.1\Training_ApiShots.exe
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\bin\Debug\netcoreapp3.1\Training_ApiShots.deps.json
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\bin\Debug\netcoreapp3.1\Training_ApiShots.runtimeconfig.json
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\bin\Debug\netcoreapp3.1\Training_ApiShots.runtimeconfig.dev.json
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\bin\Debug\netcoreapp3.1\Training_ApiShots.dll
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\bin\Debug\netcoreapp3.1\Training_ApiShots.pdb
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\obj\Debug\netcoreapp3.1\Training_ApiShots.csprojAssemblyReference.cache
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\obj\Debug\netcoreapp3.1\Training_ApiShots.AssemblyInfoInputs.cache
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\obj\Debug\netcoreapp3.1\Training_ApiShots.AssemblyInfo.cs
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\obj\Debug\netcoreapp3.1\Training_ApiShots.csproj.CoreCompileInputs.cache
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\obj\Debug\netcoreapp3.1\Training_ApiShots.dll
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\obj\Debug\netcoreapp3.1\Training_ApiShots.pdb
+E:\ProjectRepos\TreningYTProjekt\Training_ApiShots\obj\Debug\netcoreapp3.1\Training_ApiShots.genruntimeconfig.cache
